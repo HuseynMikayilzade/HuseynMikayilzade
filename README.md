@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huseyn Mikayilzade</h1> 
 <h3 align="center">A passionate Software Developer from Azerbaijan</h3>
 
-<img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="coding" align="right" width="350">
+<img src="https://cdn.dribbble.com/userupload/28703690/file/original-bdfaeecb024a818cd0e2426c7483d171.gif" alt="coding" align="right" width="350">
 
 💬 Ask me about .NET, C#, JavaScript, SQL, Onion Architecture, MonsterASP <br><br>
 📫 How to reach me: mikayilzade366@gmail.com
